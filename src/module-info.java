@@ -1,0 +1,2 @@
+module esercizi_Java {
+}
